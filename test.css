@@ -1,0 +1,9 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.emo{
+    color: blue;
+    cursor: url("https://cdn.britannica.com/72/232772-050-4E3D86CC/mind-blown-emoji-head-exploding-emoticon.jpg",auto);
+    
+}
